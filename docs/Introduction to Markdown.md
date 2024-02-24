@@ -1,7 +1,7 @@
 ---
 title: Introduction to Markdown
 layout: default
-nav_order: 1
+nav_order: 2
 ---
 
 # Quick Markdown Guide <!-- omit in toc -->
