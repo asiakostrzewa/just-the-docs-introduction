@@ -1,5 +1,5 @@
 ---
-title: Introduction to Just the Docs
+title: Site info
 layout: default
 ---
 
