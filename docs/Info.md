@@ -1,6 +1,7 @@
 ---
-title: Site info
+title: Info
 layout: default
+nav_order: 2
 ---
 
 # Introduction to Markdown
