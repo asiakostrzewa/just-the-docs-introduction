@@ -1,3 +1,8 @@
+---
+title: Introduction to Just the Docs
+layout: default
+---
+
 # Quick Markdown Guide <!-- omit in toc -->
 
 <!-- this is a comment, but Visual Studio Code (VSC) and its extensions can still read it as action -->

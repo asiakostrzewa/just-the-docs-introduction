@@ -1,3 +1,8 @@
+---
+title: Introduction to Just the Docs
+layout: default
+---
+
 # Title <!-- omit in toc -->
 
 <!-- to jest komentarz, ale może być czytany przez VSC i rozszerzenia jako działanie -->
