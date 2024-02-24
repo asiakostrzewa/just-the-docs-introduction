@@ -56,7 +56,7 @@ lub
 
 ## Obrazki
 
-![alt text](../images/IMG_E8070.JPG)
+![alt text](../images/Markdown Logo.png)
 
 ## Listy
 
