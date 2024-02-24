@@ -56,7 +56,7 @@ lub
 
 ## Obrazki
 
-![alt text](IMG_E8070.JPG)
+![alt text](../images/IMG_E8070.JPG)
 
 ## Listy
 
