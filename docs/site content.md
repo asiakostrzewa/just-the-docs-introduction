@@ -78,7 +78,7 @@ or
 
 Adding an image: 
 
-![Alternative text](../images/Markdown Logo.png)
+![Alternative text](../images/MarkdownLogo.png)
 
 ## Extended Features
 
