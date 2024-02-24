@@ -1,7 +1,8 @@
 ---
 title: Introduction to Markdown
 layout: default
-nav_order: 2
+parent: Home
+nav_order: 1
 ---
 
 # Quick Markdown Guide <!-- omit in toc -->

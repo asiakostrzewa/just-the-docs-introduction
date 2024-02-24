@@ -1,7 +1,7 @@
 ---
 title: Info
 layout: default
-nav_order: 3
+nav_order: 2
 ---
 
 # Introduction to Markdown
